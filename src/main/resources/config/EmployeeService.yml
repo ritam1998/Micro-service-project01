@@ -32,6 +32,6 @@ management:
         include: '*'
         
 welcome:
-  message: Hello ! This Is Config Server
+  message: Hello ! This Is Ritam
   
   
