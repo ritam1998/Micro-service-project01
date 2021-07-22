@@ -24,3 +24,14 @@ spring:
         ddl-auto: update
         format_sql: true
         use_sql_comments: true
+        
+management:
+  endpoints:
+    web: 
+      exposure:
+        include: '*'
+        
+welcome:
+  message: Hello ! This Is Config Server
+  
+  

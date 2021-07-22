@@ -5,7 +5,8 @@ spring:
     config:
       server: 
         git:
-          uri: https://github.com/ritam1998/Micro-service-project01.git   
+          uri: https://github.com/ritam1998/Micro-service-project01  
+            
 server:
   port: 8080
   
